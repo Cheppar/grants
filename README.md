@@ -1,2 +1,2 @@
 # grants
-Available grants 
+Available grants to be applied
